@@ -1,0 +1,7 @@
+{
+  "version": "0.0.0",
+  "name": "formview",
+  "dependencies": {
+    "backbone-base-and-form-view": "^0.8.4"
+  }
+}
